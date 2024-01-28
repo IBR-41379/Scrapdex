@@ -7,11 +7,11 @@ A Basic CLI Mangadex Scrapper to download Manga chapters, written in python
 - Works correctly when run as a script or as a PyInstaller executable
 
 ## Dependencies
-- Python 3.10
-- (Firefox(https://www.mozilla.org/en-US/firefox/new/))
-- ([Geckodriver](https://github.com/mozilla/geckodriver/))
-- ([BeautifulSoup4](https://pypi.org/project/beautifulsoup4/))
-- ([Selenium](https://www.selenium.dev))
+- [Python 3.10](https://www.python.org/downloads/release/python-3100/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Geckodriver](https://github.com/mozilla/geckodriver/)
+- [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
+- [Selenium](https://www.selenium.dev)
 
 ## Installation
 - - Download Geckodriver by running this command in your powershell:
