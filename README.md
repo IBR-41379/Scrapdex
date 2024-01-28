@@ -49,6 +49,8 @@ A Basic CLI Mangadex Scrapper to download Manga chapters, written in python
 ## Note
 - After the manga chapter has downloaded, it will take some time to close all the driver instances and it is necessary to free up some resources.
 - So it is recommended to close the window after all the driver instances are closed.
+- For now it only works in Windows. If anyone wants a version for linux, please make a new issue or reach out to me.
+- For now, it only works with firefox. If a chrome version is needed, please make a new issue or reach out to me.
 
 ## Message from the maintainer
 - Because I couldn't scrap directly from Mangadex by request(as it doesn't support javascript), I used selenium with firefox webdriver to do it.
