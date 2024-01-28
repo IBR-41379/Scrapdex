@@ -53,6 +53,7 @@ A Basic CLI Mangadex Scrapper to download Manga chapters, written in python
 
 ## Known Issues:
 - Cannot download Webtoons/Vertical format comics
+- Is a little slow because of usage of selenium webdriver
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
