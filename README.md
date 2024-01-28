@@ -43,8 +43,22 @@ A Basic CLI Mangadex Scrapper to download Manga chapters, written in python
 - After downloading Geckodriver and putting it into the cloned repository, run the executable from the bin folder normally.
 - Geckodriver should be in the parent folder of the bin folder
 
+## Note
+- After the manga chapter has downloaded, it will take some time to close all the driver instances and it is necessary to free up some resources.
+- So it is recommended to close the window after all the driver instances are closed.
+
+## Message
+- Because I couldn't scrap directly from Mangadex by request(as it doesn't support javascript), I used selenium with firefox webdriver to do it.
+- If there is any issue that is unknown, please create a new issue.
+
+##Known Issues:
+- Cannot download Webtoons/Vertical format comics
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Disclaimer
+Scrapdex and it's maintainer is not affiliated with MangaDex.
