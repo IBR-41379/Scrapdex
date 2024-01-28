@@ -59,7 +59,7 @@ A Basic CLI Mangadex Scrapper to download Manga chapters, written in python
 - Is a little slow because of usage of selenium webdriver
 
 ## Contributing
-Want to add new features ? fix a bug ? made changes to help the app better and faster ? Fork the repository and send the Pull Request.
+Want to add new features? Fix a bug? Made changes to help the app better and faster? Fork the repository and send the Pull Request.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
