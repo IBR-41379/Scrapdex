@@ -327,7 +327,7 @@ def downloader(html_text):
         # print(ola,'\n')
 
 
-print("Scrapdex\n(a mangadex downloader)\nVersion:1.0\n")
+print("Scrapdex\n(a mangadex downloader)\nVersion:0.0.1\n")
 op=input("\nSelect the type of operation:\n1)Search for a manga\n2)Download a manga\n3)exit\n")
 if op=='1':
     str1 = input("Enter the manga name: ")
