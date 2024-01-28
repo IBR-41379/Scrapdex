@@ -52,14 +52,14 @@ A Basic CLI Mangadex Scrapper to download Manga chapters, written in python
 
 ## Message from the maintainer
 - Because I couldn't scrap directly from Mangadex by request(as it doesn't support javascript), I used selenium with firefox webdriver to do it.
-- If there is any issue that is unknown, please create a new issue.
+- If there is any issue that is unknown, please create a new issue in the issues secion.
 
 ## Known Issues:
 - Cannot download Webtoons/Vertical format comics
 - Is a little slow because of usage of selenium webdriver
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Want to add new features ? fix a bug ? made changes to help the app better and faster ? Fork the repository and send the Pull Request.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
