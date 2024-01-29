@@ -1,5 +1,5 @@
 # Scrapdex
-A Basic CLI Mangadex Scrapper to download Manga chapters, written in python
+An Basic CLI Mangadex Scrapper to download Manga chapters without relying on the official Mangadex API, written in python
 
 ## Features
 - Downloads manga from a given Mangadex URL([Mangadex](https://mangadex.org))
