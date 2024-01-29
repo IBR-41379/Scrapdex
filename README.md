@@ -30,7 +30,7 @@ An Basic CLI Mangadex Scrapper to download Manga chapters without relying on the
   ```
 - Extract the geckodriver.exe from the zip file.
 
-1)For the python file:
+1) For the python file:
 - Clone the repository
 - Put geckodriver.exe into the cloned folder
 - Navigate to the cloned repository
@@ -42,7 +42,7 @@ An Basic CLI Mangadex Scrapper to download Manga chapters without relying on the
   ```shell
   python Scrapdex.py
   ```
-2)For Executable:
+2) For Executable:
 - After downloading Geckodriver and putting it into the cloned repository, run the executable from the bin folder normally.
 - Geckodriver should be in the parent folder of the bin folder
 
