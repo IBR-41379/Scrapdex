@@ -14,8 +14,8 @@ An Basic CLI Mangadex Scrapper to download Manga chapters without relying on the
 - [Selenium](https://www.selenium.dev)
 
 ## Installation
-- Download Geckodriver by running this command in your powershell:
-  Already provided in the repository.
+- Download Geckodriver by running this command in your powershell
+- (Already provided in the repository)
 
 1) For the python file:
 - Clone the repository
