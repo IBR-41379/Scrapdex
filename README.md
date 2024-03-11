@@ -15,20 +15,7 @@ An Basic CLI Mangadex Scrapper to download Manga chapters without relying on the
 
 ## Installation
 - Download Geckodriver by running this command in your powershell:
-  ```shell
-  # Get the latest geckodriver version
-  $GECKO_VER = Invoke-RestMethod -Uri "https://api.github.com/repos/mozilla/geckodriver/releases/latest" | Select-Object -ExpandProperty tag_name
-  
-  # Choose the platform (win32, win64)
-  $PLATFORM = "win64"
-  
-  # Construct the download URL
-  $URL = "https://github.com/mozilla/geckodriver/releases/download/$GECKO_VER/geckodriver-$GECKO_VER-$PLATFORM.zip"
-  
-  # Download geckodriver
-  Invoke-WebRequest -Uri $URL -OutFile "geckodriver-$GECKO_VER-$PLATFORM.zip"
-  ```
-- Extract the geckodriver.exe from the zip file.
+  Already provided in the repository.
 
 1) For the python file:
 - Clone the repository
